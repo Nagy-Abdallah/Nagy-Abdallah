@@ -14,11 +14,11 @@
 
 
 
-<h1 align="center">Hi👋, I'm Hossam Alsankary</h1>
+<h1 align="center">Hi👋, I'm Nagy Abdallah </h1>
 
 
 
-<h4 align="center">Hi, I'm Hossam, AWS DevOps expert with over 2 years of experience in improving team productivity. Skilled in creating efficient processes for branching, building, and deploying software. Successfully worked with over 50 developers to automate deployment using tools like AWS, Azure DevOps, Jenkins, Terraform, Ansible, and Bash..</h4>
+<h4 align="center">Hi, I'm Nagy, I am a DevOps Engineer with 3 years of experience in managing deployments, automating processes, and implementing new technologies. I have a strong background in Linux, Bash scripting, Kubernetes, and cloud platforms like AWS and Azure. I am skilled in tools such as Terraform, Ansible, Jenkins, and GitLabCI. I have worked on projects involving OpenShift, AzureDevOps, and GitLab. I am passionate about optimizing application performance, ensuring scalability, and collaborating with cross-functional teams. I am constantly learning and adapting to new technologies to enhance automation and customization </h4>
 
 
 
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/nagy-adel-097b94207/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:hossamhassanalsankary@gmail.com" target="_blank">
+  <a href="mailto:nagy.adel.abd1992@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
