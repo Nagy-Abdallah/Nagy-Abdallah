@@ -14,19 +14,19 @@
 
 
 
-<h1 align="center">Hi👋, I'm Nagy Abdallah</h1>
+<h1 align="center">Hi👋, I'm Hossam Alsankary</h1>
 
 
 
-<h4 align="center">Hi, I'm Nagy, AWS DevOps expert with over 2 years of experience in improving team productivity. Skilled in creating efficient processes for branching, building, and deploying software. Successfully worked with over 50 developers to automate deployment using tools like AWS, Azure DevOps, Jenkins, Terraform, Ansible, and Bash..</h4>
+<h4 align="center">Hi, I'm Hossam, AWS DevOps expert with over 2 years of experience in improving team productivity. Skilled in creating efficient processes for branching, building, and deploying software. Successfully worked with over 50 developers to automate deployment using tools like AWS, Azure DevOps, Jenkins, Terraform, Ansible, and Bash..</h4>
 
 
 
 <div align="center">
-  <a href="www.linkedin.com/in/nagy-adel-097b94207" target="_blank">
+  <a href="https://www.linkedin.com/in/nagy-adel-097b94207/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:nagy.adel.abd1992@gmail.com" target="_blank">
+  <a href="mailto:hossamhassanalsankary@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
